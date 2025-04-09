@@ -1,2 +1,15 @@
-# Testnet-projects
-## Мои активности в тестнетах - Participating in Monad, ZetaChain, Starknet, etc. - Exploring Solidity and smart contract deployment
+
+# Привет! Я — Web3-энтузиаст
+
+Изучаю блокчейн, участвую в тестнетах и аирдропах, развиваюсь в направлении децентрализованных технологий.
+
+### Мои активности:
+- Участие в тестнетах: Monad, ZetaChain, Starknet, Taiko, Berachain
+- Изучаю языки: Solidity, Rust, Move
+- Работаю с кошельками: MetaMask, OKX, Rabby, Leap
+- Знаком с экосистемами: Cosmos, zkSync, Arbitrum, Base
+
+### Цель:
+Участвовать в развитии перспективных блокчейн-проектов и на практике осваивать Web3.
+
+Связь: [твой email или Discord, если хочешь указать]
