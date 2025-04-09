@@ -6,10 +6,10 @@
 ### Мои активности:
 - Участие в тестнетах: Monad, ZetaChain, Starknet, Taiko, Berachain
 - Изучаю языки: Solidity, Rust, Move
-- Работаю с кошельками: MetaMask, OKX, Rabby, Leap
+- Работаю с кошельками: MetaMask, OKX, Rabby, Haha
 - Знаком с экосистемами: Cosmos, zkSync, Arbitrum, Base
 
 ### Цель:
 Участвовать в развитии перспективных блокчейн-проектов и на практике осваивать Web3.
 
-Связь: [твой email или Discord, если хочешь указать]
+Связь: ltokht@gmail.com или Discord: Ltokht
